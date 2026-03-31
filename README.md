@@ -48,5 +48,5 @@ Based on the project requirements, the following tasks were completed:
 ![Dashboard Preview](Brooklyn_Scatter.png)
 ![Dashboard Preview](Brooklyn_Density.png)
 ![Dashboard Preview](Complaints_Perr_City.png)
-![Dashboard Preview](Null_Value_Per_Column.png)
+![Dashboard Preview](Null_Values_Per_Column.png)
 ![Dashboard Preview](Types_Of_Complaints.png)
