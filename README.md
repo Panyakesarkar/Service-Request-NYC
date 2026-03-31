@@ -32,7 +32,7 @@ Based on the project requirements, the following tasks were completed:
 ## 📖 How to Run This Project
 1.  *Clone the Repository:*
     bash
-    git clone [https://github.com/Pranav-Kesarkar/NYC-311-Analysis.git](https://github.com/Pranav-Kesarkar/NYC-311-Analysis.git)
+    git clone [https://github.com/Panyakesarkar/Service-Request-NYC.git](https://github.com/Panyakesarkar/Service-Request-NYC.git)
     
 2.  *Install Dependencies:*
     bash
