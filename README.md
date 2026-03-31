@@ -44,3 +44,9 @@ Based on the project requirements, the following tasks were completed:
 *Author:* Pranav Kesarkar  
 *Internship:* Data Analyst Intern at Cravita Technologies  
 *Connect with me:* [LinkedIn](https://www.linkedin.com/in/pranav-kesarkar)
+
+![Dashboard Preview](Brooklyn Scatter.png)
+![Dashboard Preview](Brooklyn Density.png)
+![Dashboard Preview](Complaints Perr City.png)
+![Dashboard Preview](Service_Analysis.png)
+![Dashboard Preview](Service_Analysis.png)
